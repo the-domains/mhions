@@ -1,7 +1,7 @@
-name: mhions
+name: mh ions
 favicon: null
-layout_spectrum: 0.966097995871678
-typography_spectrum: 0.8348663260694593
+layout_spectrum: 0.25391
+typography_spectrum: 0.41249
 title: mh ions by Matthias Halibrand
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.6856765989214182
-  lightness: 0.8407687018625438
-  saturation: 0.0783998214174062
-  rhythmicContrast: 0.7771573492791504
+  brandStrength: 0
+  lightness: 0.9375
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
